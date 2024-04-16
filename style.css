@@ -177,19 +177,19 @@ input:checked+label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('/assets/Untitled.jpeg');
+    background-image: url('Untitled.jpeg');
 }
 
 .card[for="c2"] {
-    background-image: url('/assets/FOURTH.JPG');
+    background-image: url('FOURTH.JPG');
 }
 
 .card[for="c3"] {
-    background-image: url('/assets/Untitled_1.jpeg');
+    background-image: url('Untitled_1.jpeg');
 }
 
 .card[for="c4"] {
-    background-image: url('/assets/teacher_1.png');
+    background-image: url('teacher_1.png');
 }
 
 
